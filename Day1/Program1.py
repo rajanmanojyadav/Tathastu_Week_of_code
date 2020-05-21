@@ -1,3 +1,5 @@
+# Take multiple inputs From users like Nmae, Branch, Gender, College Name,Age and display all those parametersusing print and next line.
+
 name=input("Enter Youy name :")
 branch=input("Enter Your branch :")
 gender=input("Enter Your gender :")
